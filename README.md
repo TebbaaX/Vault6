@@ -2,7 +2,9 @@
 
 # Vault6 
 [![Github All Releases](https://img.shields.io/twitter/follow/TebbaaX)]()
-Telegram channel : t.me/Vault6
+
+Telegram channel : https://t.me/Vault6
+
 * SunBurst : 
   - FireEye Tools
   - Supernova_webshell_backdoor
