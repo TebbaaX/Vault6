@@ -16,3 +16,4 @@
        - WinServer_Source
        - Intel_Leak
        - Nissan_Leak
+       - CVE-2018-13379
