@@ -11,7 +11,7 @@
   - Dendroid Source
 
 * Leaks : 
-   - Readme.txt (Mega/Torrent Links) 
+   - Readme.txt (Mega/Torrent Links...files) 
        - WinXp_Source
        - WinServer_Source
        - Intel_Leak
