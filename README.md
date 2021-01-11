@@ -22,3 +22,4 @@ Telegram channel : https://t.me/Vault6
        - Intel_Leak
        - Nissan_Leak
        - CVE-2018-13379.txt
+       - Sharp Office Software Leak
