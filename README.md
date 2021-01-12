@@ -9,6 +9,7 @@ Telegram channel : https://t.me/Vault6
   - FireEye Tools
   - Supernova_webshell_backdoor
   - APT_Dropper
+  - SunBurst_FalsePositives
 * APTs Android Malware Collection : 
   - Anubis Source
   - Dendroid Source
