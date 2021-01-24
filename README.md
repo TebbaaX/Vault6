@@ -26,3 +26,4 @@ Telegram channel : https://t.me/Vault6
        - CVE-2018-13379.txt
        - Sharp Office Software Leak
        - Parler Leak
+       - Mindful Dating Leak
