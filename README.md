@@ -27,3 +27,4 @@ Telegram channel : https://t.me/Vault6
        - Sharp Office Software Leak
        - Parler Leak
        - Mindful Dating Site Leak
+       - Far Right/Qanon 747462 Telegram channel
